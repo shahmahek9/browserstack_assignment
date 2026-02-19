@@ -183,14 +183,20 @@ europe 3
 politics 3
 ```
 
----
-
-## Security Note
-
-Environment variables are used for BrowserStack credentials.
-Do not commit credentials to version control.
 
 ---
+
+
+
+
+
+### Screenshots
+![Overview_of_the_Test](screenshots\overview.jpeg)
+
+![Device_And_Browserstack](screenshots\device_and_browser_coverage.jpeg)
+
+![Summary](screenshots\summary.jpeg)
+
 
 ## Tech Stack
 
@@ -205,7 +211,5 @@ Do not commit credentials to version control.
 
 ## Conclusion
 
-This project demonstrates a complete workflow combining **automation, scraping, APIs, text analytics and cloud testing** in a production-style architecture.
+This project demonstrates a complete workflow combining **automation, scraping, APIs, text analytics, and cloud testing** in a production-style architecture.
 
-```
-```
