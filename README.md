@@ -191,7 +191,7 @@ politics 3
 
 
 ### Screenshots
-![Overview_of_the_Test](screenshots\overview.jpeg)
+![Overview_of_the_Test](screenshots/overview.jpeg)
 
 ![Device_And_Browserstack](screenshots\device_and_browser_coverage.jpeg)
 
